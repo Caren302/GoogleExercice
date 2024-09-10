@@ -29,3 +29,13 @@ En este ejemplo se instala (web.py) (https://webpy.org), se utiliza el coidgo de
 ''' bash
     $ python3 app.py
 '''
+
+## Actualizar el repositorio 
+
+Despues de verificar que funciona la aplicación
+
+''' bash
+    git add .
+    git commit -m "CREATED hola mundo"
+    git push -u origin main
+'''
